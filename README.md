@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faizalfahri
 - 👀 I’m interested in Computer Web Programming
-- 🌱 I’m currently learning HTML, CSS, MySQL, PHP Codeigniter, Laravel, JavaScript, Express JS
+- 🌱 I’m currently learning HTML, CSS, JS, PHP Codeigniter
 - 💞️ I’m looking to collaborate on IT Company to growing up my skill
 - 📫 How to reach me.. you can find my instagram account @paijalpahr or you can send me email at faizfah10@gmail.com
 
